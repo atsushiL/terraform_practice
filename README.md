@@ -1,1 +1,1 @@
-# Terraform の遊び場
+# terraform_practice
